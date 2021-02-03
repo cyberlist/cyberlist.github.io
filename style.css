@@ -1,0 +1,22 @@
+h1{
+  color:blue;
+  font-family:Sans-serif;
+  font-size: 40;
+  border: 3px solid Dodgerblue;
+  background-color:LightSteelBlue;
+  padding-left: 300px
+}
+p{
+  color:green;
+  font-family:sans-serif;
+  font-size:40
+}
+body{
+  background-color: DarkTurquoise
+}
+img{
+  border: 6px solid Dodgerblue;
+  width: 40%;
+  height: 40%;
+  margin-left: 100px
+}
